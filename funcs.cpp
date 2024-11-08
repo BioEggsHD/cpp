@@ -1,1 +1,1 @@
-/* power fac gamma deg rad sqrt pyt sin cos tan cot sec csc asin acos atan acot asec acsc sinh cosh tanh coth sech csch */
+/* power fac gamma deg rad sqrt pyt sin cos tan cot sec csc asin acos atan acot asec acsc sinh cosh tanh coth sech csch exp */
